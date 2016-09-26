@@ -23,6 +23,12 @@
     </connection>
     <url>@project.scm.url@</url>
   </scm>
+   <scm>
+    <connection>
+      scm:git:@project.repo.url@
+    </connection>
+    <url>@project.scm.url@</url>
+  </scm>
 
   <developers>
     <developer>
